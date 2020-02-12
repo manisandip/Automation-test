@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b88cb5cb-37d4-486c-bdb8-8b1b3d649345" name="Default Changelist" comment="" />
+    <list default="true" id="b88cb5cb-37d4-486c-bdb8-8b1b3d649345" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Reusability methods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest2/WebExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest2/WebExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest2/WebExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest2/WebExercise.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,7 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XIMuiXMRPPFgNrnIPli1fjXUJS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/WebDriver" />
   </component>
   <component name="RecentsManager">
@@ -48,9 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WebExercise.OrangeHrm">
+  <component name="RunManager" selected="JUnit.WebExercise.userShouldAbleToRegisterSuccessfully">
     <configuration name="WebExercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
+      <module name="Reusability methods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WebTest2.*" />
@@ -64,24 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebExercise.Asda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WebTest2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WebTest2" />
-      <option name="MAIN_CLASS_NAME" value="WebTest2.WebExercise" />
-      <option name="METHOD_NAME" value="Asda" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WebExercise.Matalan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
+      <module name="Reusability methods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WebTest2.*" />
@@ -96,8 +92,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebExercise.Ocado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Reusability methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest2" />
+      <option name="MAIN_CLASS_NAME" value="WebTest2.WebExercise" />
+      <option name="METHOD_NAME" value="Ocado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WebExercise.OrangeHrm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
+      <module name="Reusability methods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WebTest2.*" />
@@ -112,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebExercise.Website_com" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
+    <configuration name="WebExercise.userShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Reusability methods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WebTest2.*" />
@@ -122,7 +134,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="WebTest2" />
       <option name="MAIN_CLASS_NAME" value="WebTest2.WebExercise" />
-      <option name="METHOD_NAME" value="Website_com" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WebExercise.OrangeHrm" />
+        <item itemvalue="JUnit.WebExercise.userShouldAbleToRegisterSuccessfully" />
         <item itemvalue="JUnit.WebExercise.Matalan" />
+        <item itemvalue="JUnit.WebExercise.OrangeHrm" />
+        <item itemvalue="JUnit.WebExercise.Ocado" />
         <item itemvalue="JUnit.WebExercise" />
-        <item itemvalue="JUnit.WebExercise.Website_com" />
-        <item itemvalue="JUnit.WebExercise.Asda" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +162,18 @@
       <updated>1580729379069</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
